@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "koa": "^2.10.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "request": "^2.88.0",
+    "sequelize": "^5.20.0",
+    "tedious": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guaphy",
+  "license": "ISC"
+}
